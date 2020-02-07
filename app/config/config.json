@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "secret123",
+    "database": "postgres",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "URL":"jdbc:postgresql://localhost:5432/postgres",
+    "operatorsAliases": false,
+    "define": {
+      "underscored": true
+    }
+  }
+}
